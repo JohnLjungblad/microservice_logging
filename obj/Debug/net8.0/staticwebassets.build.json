@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ta1LNEljmoLV8WfAx6zAdlDUFxGQOstqPfELdeWkavI=",
+  "Source": "microservice_logging",
+  "BasePath": "_content/microservice_logging",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
